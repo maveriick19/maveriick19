@@ -1,90 +1,116 @@
+ ██████╗ 
+██╔════╝ 
+██║                             
+██║      
+╚██████╗
+ ╚═════╝
+ ██████╗ 
+██    ██
+██    ██
+██    ██
+ ██████╗
+█████╗  
+██  ██╗ 
+██   ██╗
+██   ██║
+██  ██╔╝
+█████╔╝ 
+╚════╝  
+███████╗
+██      
+███████╗
+██      
+███████╗
 
 
-# 💜🌐 **ULTRAVIOLET MAINFRAME BOOTING…**
 
-### *Holographic Developer Interface Activated*
 
-<p align="center">
-  <img src="https://media.tenor.com/y69XTdtbk-wAAAAC/hologram.gif" width="650"/>
-</p>
+ ██████╗
+██      
+ ██████╗
+      ██
+███████╗
 
-You have entered a realm where everything is made of **light**—
-interfaces float, code bends like photons,
-and the future isn’t coming…
-**it’s projecting itself around you.**
+██     ██
+██     ██
+██     ██
+██     ██
+ ████████
 
----
+██████╗ 
+██   ██╗
+██████╔╝
+██   ██╗
+██    ██╗
 
-# 🪩 **HOLOGRAM IDENTITY: ONLINE**
+ ██████╗
+██      
+██  ███╗
+██    ██
+ ██████╝
 
-> **Designation:** **Mahank Verma**
-> **Class:** Holo-Architect
-> **Signal State:** Stable
-> **Spectral Mode:** Ultraviolet Frequency
+███████╗
+██      
+███████╗
+██      
+███████╗
 
-When your world runs on neon particles and digital lumens,
-you don’t just *write* code —
-you **manifest** it.
+ ██████╗
+██    ██
+██    ██
+██    ██
+ ██████╗
 
----
+███    ██
+████   ██
+██ ██  ██
+██  ██ ██
+██   ████
 
-# 💜 **TECH MADE OF PURE LIGHT**
 
-My development suite is built from ultraviolet architecture:
+🩺 CODE SURGEON
+MAHANK VERMA (Maveriick19) — Healing Code, One Commit at a Time
+<p align="center"> <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="450"/> </p>
+I am Maveriick19, a digital surgeon operating in the terminal theater of code.
+Bugs are my patients. Broken logic is the ailment. Elegant solutions are the cure.
 
-✨ **Photonic Python Streams** — flowing like beams
-✨ **UV JavaScript Panels** — reactive to neural touch
-✨ **React Glass Interfaces** — thin as plasma
-✨ **Flask Holo-Frameworks** — soft, translucent scaffolding
-✨ **FFmpeg Lightwave Shapers** — crafting motion from data
-✨ **AI Sound Projection Emitters** — voice synthesized as light
+Each commit is a careful incision, each function a scalpel stroke,
+designed to restore order, optimize systems, and bring clarity to chaos.
 
-My workspace glows, morphs, expands —
-**code is no longer text… it’s a visual phenomenon.**
+⚙️ SURGICAL TOOLKIT
+Languages: Python, JavaScript, CSS, HTML, REACT Native
 
----
+Frameworks: Flask, Node.js, React
 
-# 🔮 **SYNTHETIC ENVIRONMENT**
+Procedures: Debugging, Refactoring, Automation, AI-driven tools
 
-Inside this holo-lab:
+Precision Tools: FFmpeg, APIs, Custom Scripts
 
-* Code floats in 3D space
-* UI elements rotate around your vision
-* Sound converts into particles
-* Errors flash in ultraviolet halos
-* Solutions appear as refracted beams
+🩹 OPERATING PHILOSOPHY
+Precision Over Haste — Every function must be exact.
 
-Technology isn’t used—
-**it is bent to my will.**
+Refactor First, Panic Never — Bugs are patients needing care.
 
----
+Readable Code Saves Lives — Maintainable code is critical.
 
-# 🧊 **REPOSITORY HOLO-ARCHIVE**
+Creative Interventions — Sometimes a patch is art.
 
-Within my GitHub vault, you’ll find constructs built from:
+🧠 CURRENT PROCEDURES
+Resuscitating legacy projects
 
-💠 Light
-💠 Minimal futurism
-💠 Geometric intuition
-💠 Zero-gravity interfaces
-💠 AI-driven holographic logic
+Automating repetitive tasks efficiently
 
-Every project is a **data crystal** waiting to be activated.
+Building AI-powered diagnostic tools
 
----
+Designing minimal, high-performance applications
 
-# 🌐 **INITIATE CONTACT**
+💡 WHY “CODE SURGEON”?
+In a world of tangled scripts, broken builds, and chaotic repositories:
+I bring order, restore functionality, and save digital lives.
 
-If you operate on the ultraviolet spectrum —
-if you create, explore, and bend tech like light…
+📫 CONSULTATION & COLLABORATION
+If your codebase needs a steady hand, a sharp mind, or creative solutions:
+the Operating Repository is open.
+Reach out to Maveriick19 — scalpel in hand
 
-then sync with me.
 
-**Holo-Architect: *Mahank Verma***
-Signal remains open.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=BD7DFF&center=true&vCenter=true&width=650&lines=Rendering+Ultraviolet+Console...;Signal+Linked+with+Mahank+Verma.;Welcome+to+the+Holo+Future.">
-</p>
-
----
