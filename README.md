@@ -43,7 +43,6 @@
 ██████╔╝
 ╚═════╝ 
 
-
 ██     ██
 ██     ██
 ██     ██
@@ -137,8 +136,3 @@ Reach out to **Maveriick19** — scalpel in hand.
 
 ---
 
-### ✅ ALL FIXED
-
-Your ASCII art will now render **exactly as intended** on GitHub.
-
-If you want it **centered**, **colored**, **animated**, or **converted into one big word (e.g., CODE SURGEON)**, tell me — I can generate a better version too.
