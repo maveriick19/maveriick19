@@ -88,7 +88,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="450"/>
-</p>
+</p> 
 
 I am **Mahank Verma(Maveriick)*, a digital surgeon operating in the terminal theater of code.  
 Bugs are my patients. Broken logic is the ailment. Elegant solutions are the cure.
